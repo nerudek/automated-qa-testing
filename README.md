@@ -1,0 +1,1 @@
+# platforms: [linux, macos, windows]\n\n    related_skills: []\n\nSee [SKILL.md](./SKILL.md) for the full guide.\n\n---\nIf this saved you time: [PayPal.me/nerudek](https://www.paypal.me/nerudek)\nGitHub: [github.com/nerudek](https://github.com/nerudek)
